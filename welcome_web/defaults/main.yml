@@ -1,0 +1,4 @@
+---
+apache_package: httpd
+apache_service: httpd
+web_content: <h1>Hello from Role</h1>
